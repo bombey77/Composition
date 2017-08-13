@@ -8,7 +8,7 @@ public class Mabo2 {
         Wypalarka wypalarka = new Wypalarka("Roman", "Wypalarka");
         System.out.println(wypalarka.nameWorkerAndMachine());
 
-        Lazer lazer = new Lazer("Dick");
+        Lazer lazer = new Lazer("John");
         lazer.getDetails();
         lazer.getWorker();
     }
